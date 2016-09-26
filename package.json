@@ -1,0 +1,23 @@
+{
+  "name": "webpack-windows-issue",
+  "version": "1.0.0",
+  "description": "Debugging System.import feature of Webpack on Windows machines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Matheson <sean@ctrplusb.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "6.14.0",
+    "babel-loader": "6.2.5",
+    "babel-preset-es2015": "6.14.0",
+    "babel-preset-react": "6.11.1",
+    "express": "4.14.0",
+    "react": "15.3.2",
+    "react-dom": "15.3.2",
+    "webpack": "1.13.2",
+    "webpack-dev-middleware": "1.8.2",
+    "webpack-hot-middleware": "2.12.2"
+  }
+}
